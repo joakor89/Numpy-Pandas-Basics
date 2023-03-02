@@ -1,19 +1,10 @@
-# Game Project
+# General Info
 
-To run out the game! You might follow the instructions at the terminal:
-
-```sh
-cd game
-python3 main.py
-```
-
-# App Project
+This is a quick review through Numpy main functions
+& structures! This has been performed on Jupyter Notebooks:
 
 ```sh
-git clone
-cd app
-python3 -m venv env
-source env/bin/activate
-pip3 install -r requirements.txt
-python3 main.py
+Add up you favorite notebook or 
+even on Visual Studio Code if you might prefer
 ```
+
